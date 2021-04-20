@@ -6,7 +6,7 @@
 A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am an automation enthusiast working with many projects related to Robotics and AI.
 
 ## Projects
-*_Repository is currently Private. Open Source : Coming Soon._
+*_Some repositories are currently Private. Open Source : Coming Soon._
 
 ### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning)*]
  - ROS packages for robot communication and multi robot controllers for predecessor following vehicle platoons.
