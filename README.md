@@ -6,8 +6,9 @@
 A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am an automation enthusiast working with many projects related to Robotics and AI.
 
 ## Projects
+*_Repository is currently Private. Open Source : Coming Soon._
 
-### Connected Vehicle Platooning
+### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning)*]
  - ROS packages for robot communication and multi robot controllers for predecessor following vehicle platoons.
  - Analysis of stability of semi-autonomous platoons.
 
@@ -24,7 +25,7 @@ A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ### Driverless Formula Race Car - Mapping System [[Website](https://fasttube.de)]
  - Computer-vision algorithms for cone detection and mapping system with OpenCV & Tensorflow for FaSTTUBe TU Berlin's Formula Student Driverless Vehicle Team.
 
-### Lunar Rover - Electrical System Design 
+### Lunar Rover - Electrical System Design [[Github](https://github.com/niladut/Rover_Control)*] 
  - Lunar Rover prototype design with navigation and telemetry.
 
 ### Indoor UAV Localization for Industrial Chimney Inspection
@@ -38,7 +39,7 @@ A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ### RISC-V Instruction Disassembler [[Github](https://github.com/niladut/riscv-instruction-disassembler)]
  - Disassembly tool for RISC-V Architecture
 
-### AI Agent for Pong 
+### AI Agent for Pong [[Github](https://github.com/niladut/wimblepong_reinforcement_learning)*]
  - Agent for playing the Pong game using the OpenAI gym and PyTorch frameworks.
  - Model training with CNN-based image processing using Advantage Actor-Critic(A2C) with Proximal Policy Optimization (PPO) methodology.
 
