@@ -3,7 +3,7 @@
 ## Hi there 👋!
 
 ### I'm Niladri Dutta! 
-A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am a automation enthusiast working with many projects related to Robotics and AI.
+A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am an automation enthusiast working with many projects related to Robotics and AI.
   
 ## Projects
 
