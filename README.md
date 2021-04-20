@@ -1,26 +1,9 @@
-
-
-<!--
-**niladut/niladut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Niladri Dutta 👨‍💻
 
-## Hi there 👋,
+## Hi there 👋!
 
 ### I'm Niladri Dutta! 
-A Student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am a automation enthusiast working with many projects on Robotics and AI.
+A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am a automation enthusiast working with many projects related to Robotics and AI.
   
 ## Projects
 
@@ -31,11 +14,14 @@ A Student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ### Sensor Fusion for Autonomous Robot Tracking 
  - Developed an algorithm for tracking an autonomous robot by using sensor data from the IMU and camera system.
 
-### Autonomous Self-Parking Vehicle 
+### Autonomous Self-Parking Vehicle ([Video](https://youtu.be/YkTl6Fsfp7o))
  - Used OpenCV & Tensorflow with YOLOv3 for processing camera images to detect objects, lanes & traffic signs.
  - Developed a custom-designed path-planning algorithm for road navigation. Implemented using ROS framework and MORSE simulator.
 
-### Driverless Formula Race Car - Mapping System 
+### Moving Ball Deflector - Robotic Arm System ([Video](https://youtu.be/Dgt2PGqyBls))
+ - AI & Robotics Systems Project
+
+### Driverless Formula Race Car - Mapping System ([Website](https://fasttube.de))
  - Developed a computer-vision algorithm to cone detection and mapping system with OpenCV & Tensorflow for FaSTTUBe TU Berlin's Formula Student Driverless Vehicle Team.
 
 ### Lunar Rover - Electrical System Design 
@@ -45,9 +31,4 @@ A Student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
  - Developed an indoor localization system for a UAV to navigate inside industrial chimneys for structural inspection.
  - Localisation system used Arduino with ultrasonic rangefinders, LiDAR and image processing on OpenCV.
 
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🤔
-
--->
