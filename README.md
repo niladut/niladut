@@ -15,7 +15,7 @@ A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ### Sensor Fusion for Autonomous Robot Tracking 
  - Algorithms for tracking an autonomous robot by using sensor data from the IMU and camera system.
 
-### Autonomous Self-Parking Vehicle [[Video](https://youtu.be/YkTl6Fsfp7o)]
+### Autonomous Self-Parking Vehicle [[Github]()|[Video](https://youtu.be/YkTl6Fsfp7o)]
  - OpenCV & Tensorflow with YOLOv3 for processing camera images to detect objects, lanes & traffic signs.
  - Custom-designed path-planning algorithm for road navigation. Implemented using ROS framework and MORSE simulator.
 
