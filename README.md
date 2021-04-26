@@ -49,6 +49,6 @@ A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ### Forest Cover Type Prediction 
  - Predict forest cover type using cartographic data and a variety of machine learning classification algorithms like KNN, Naive Bayes, etc.
 
-### Wireless Electromyograph 
+### Wireless Electromyograph [[Video](https://youtu.be/QyAiRKq9_zQ)]
  - Portable electromyograph with wireless data collection and monitoring system over Bluetooth using AtMega microcontrollers.
  - Remote data sampler & MATLAB GUI app.
