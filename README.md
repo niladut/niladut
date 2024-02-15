@@ -1,4 +1,5 @@
 # Niladri Dutta 👨‍💻
+[LinkedIn](https://www.linkedin.com/in/niladri-dutta/)
 
 ## Hi there 👋!
 
