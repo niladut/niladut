@@ -5,10 +5,10 @@
 
 ### I'm Niladri Dutta! 
 I am an automation enthusiast working with many projects related to Robotics and AI.
-A graduate from 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems.
-I work as a Robotics Engineer, specializaing in Localization & Navigation. I am also an enthusiast for embedded tech related hardware projects.
+A graduate from 👨‍💻 Aalto University, with a Masters degree in Autonomous Systems.
+I work as a Robotics Engineer, specializaing in Localization & Navigation. I also enjoy embedded tech related hardware projects.
 
-**Interests:** Autonomuous Vehicles, Space Robotics, Aerospace, Infrastructure Automation, Logistics Robots.
+**Interests:** Autonomuous Vehicles, Space Robotics, Aerospace, IoT/Infrastructure Automation, Logistics Robots.
 
 ## Projects
 *_Some repositories are currently Private. (They will be Open Sourced soon)._
