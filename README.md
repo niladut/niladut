@@ -15,14 +15,14 @@ I work as a Robotics Engineer, specializaing in Localization & Navigation. I als
 _____________________
 ### Robotics & AI
 
-#### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning)|[Video](https://www.youtube.com/watch?v=-r5EvBTVL1Q)|[Publication](https://ieeexplore.ieee.org/abstract/document/11186826)]
+#### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning) | [Video](https://www.youtube.com/watch?v=-r5EvBTVL1Q) | [Publication](https://ieeexplore.ieee.org/abstract/document/11186826)]
  - ROS packages for robot communication and multi robot controllers for predecessor following vehicle platoons.
  - Analysis of stability of semi-autonomous platoons.
 
 #### Sensor Fusion for Autonomous Robot Tracking 
  - Algorithms for tracking an autonomous robot by using sensor data from the IMU and camera system.
 
-#### Autonomous Self-Parking Vehicle [[Github]()|[Video](https://youtu.be/YkTl6Fsfp7o)]
+#### Autonomous Self-Parking Vehicle [[Github]() | [Video](https://youtu.be/YkTl6Fsfp7o)]
  - OpenCV & Tensorflow with YOLOv3 for processing camera images to detect objects, lanes & traffic signs.
  - Custom-designed path-planning algorithm for road navigation. Implemented using ROS framework and MORSE simulator.
 
@@ -46,7 +46,7 @@ _____________________
 #### Forest Cover Type Prediction 
  - Predict forest cover type using cartographic data and a variety of machine learning classification algorithms like KNN, Naive Bayes, etc.
 
-_______________________________
+___
 ### Embedded Systems
 #### Processor Designing & Implementation on FPGA [[Github](https://github.com/digital-design-snu/ANPPV_RISC_PipelinedProcessor)]
  - Design of two processors: a single bus 8-bit processor and a 4-stage 8-bit pipeline processor design.
@@ -61,3 +61,11 @@ _______________________________
 #### Wireless Electromyograph [[Video](https://youtu.be/QyAiRKq9_zQ)]
  - Portable electromyograph with wireless data collection and monitoring system over Bluetooth using AtMega microcontrollers.
  - Remote data sampler & MATLAB GUI app.
+
+---
+
+### Workspaces
+
+#### ROS2 Docker Workspace [[Github](https://github.com/niladut/ros2-docker-workspace)]
+- Streamlines ROS 2 development with Docker & VSCode.
+- Isolated environments, graphical app support, collaboration-friendly.
