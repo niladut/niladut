@@ -15,7 +15,7 @@ I work as a Robotics Engineer, specializaing in Localization & Navigation. I als
 _____________________
 ### Robotics & AI
 
-#### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning)*]
+#### Connected Vehicle Platooning [[Github](https://github.com/niladut/connected-platooning)|[Video](https://www.youtube.com/watch?v=-r5EvBTVL1Q)|[Publication](https://ieeexplore.ieee.org/abstract/document/11186826)]
  - ROS packages for robot communication and multi robot controllers for predecessor following vehicle platoons.
  - Analysis of stability of semi-autonomous platoons.
 
